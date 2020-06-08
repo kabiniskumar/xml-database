@@ -1,0 +1,25 @@
+/XMLInputTreeNode.class
+/XMLParser.class
+/InputTree.class
+/XMLInsert.class
+/XMLRecordFetch.class
+/XMLRetrieve.class
+/XMLTuple.class
+/XMLTuple1.class
+<<<<<<< HEAD
+/RunAllQueries.class
+/NestedQP2.class
+=======
+/NestedLoopTD.class
+/XMLQueryParsing.class
+>>>>>>> 37705a0c9e2022e5530fc748b0c47f8320f39081
+/QueryPlan2.class
+/Test.class
+/XMLTagIndex.class
+/CartesianProduct.class
+/TagJoin.class
+/IntervalJoin.class
+/XMLIntervalIndex.class
+/XMLQP1.class
+/QueryPlan1.class
+/XMLFetch.class

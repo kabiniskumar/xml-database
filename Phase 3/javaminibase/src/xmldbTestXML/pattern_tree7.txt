@@ -1,0 +1,10 @@
+5
+root
+AC
+P4306
+Ref
+*
+1 2 AD
+2 3 PC
+1 4 AD
+4 5 AD

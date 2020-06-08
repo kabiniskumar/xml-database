@@ -1,0 +1,77 @@
+<root>
+    <Entry id="100K_RAT" class="STANDARD" mtype="PRT" seqlen="889">
+        <AC>Q62671</AC>
+        <Mod date="01-NOV-1997" Rel="35" type="Created"></Mod>
+        <Mod date="01-NOV-1997" Rel="35" type="Last sequence update"></Mod>
+        <Mod date="15-JUL-1999" Rel="38" type="Last annotation update"></Mod>
+        <Descr>100 KDA PROTEIN (EC 6.3.2.-)</Descr>
+        <Species>Rattus norvegicus (Rat)</Species>
+        <Org>Eukaryota</Org>
+        <Org>Metazoa</Org>
+        <Org>Chordata</Org>
+        <Org>Craniata</Org>
+        <Org>Vertebrata</Org>
+        <Org>Euteleostomi</Org>
+        <Org>Mammalia</Org>
+        <Org>Eutheria</Org>
+        <Org>Rodentia</Org>
+        <Org>Sciurognathi</Org>
+        <Org>Muridae</Org>
+        <Org>Murinae</Org>
+        <Org>Rattus</Org>
+        <Ref num="1" pos="SEQUENCE FROM N.A">
+            <Comment>STRAIN=WISTAR</Comment>
+            <Comment>TISSUE=TESTIS</Comment>
+            <DB>MEDLINE</DB>
+            <MedlineID>92253337</MedlineID>
+            <Author>Mueller D</Author>
+            <Author>Rehbein M</Author>
+            <Author>Baumeister H</Author>
+            <Author>Richter D</Author>
+            <Cite>Nucleic Acids Res. 20:1471-1475(1992)</Cite>
+        </Ref>
+        <Ref num="2" pos="ERRATUM">
+            <Author>Mueller D</Author>
+            <Author>Rehbein M</Author>
+            <Author>Baumeister H</Author>
+            <Author>Richter D</Author>
+            <Cite>Nucleic Acids Res. 20:2624-2624(1992)</Cite>
+        </Ref>
+        <EMBL prim_id="X64411" sec_id="CAA45756"></EMBL>
+        <INTERPRO prim_id="IPR000569" sec_id="-"></INTERPRO>
+        <INTERPRO prim_id="IPR002004" sec_id="-"></INTERPRO>
+        <PFAM prim_id="PF00632" sec_id="HECT" status="1"></PFAM>
+        <PFAM prim_id="PF00658" sec_id="PABP" status="1"></PFAM>
+        <Keyword>Ubiquitin conjugation</Keyword>
+        <Keyword>Ligase</Keyword>
+        <Features>
+            <DOMAIN from="77" to="88">
+                <Descr prim_id="PF00657">ASP/GLU-RICH (ACIDIC)</Descr>
+            </DOMAIN>
+            <DOMAIN from="127" to="150">
+                <Descr>PRO-RICH</Descr>
+            </DOMAIN>
+            <DOMAIN from="420" to="439">
+                <Descr>ARG/GLU-RICH (MIXED CHARGE)</Descr>
+            </DOMAIN>
+            <DOMAIN from="448" to="457">
+                <Descr>ARG/ASP-RICH (MIXED CHARGE)</Descr>
+            </DOMAIN>
+            <DOMAIN from="485" to="514">
+                <Descr>PABP-LIKE</Descr>
+            </DOMAIN>
+            <DOMAIN from="579" to="590">
+                <Descr>ASP/GLU-RICH (ACIDIC)</Descr>
+            </DOMAIN>
+            <DOMAIN from="786" to="889">
+                <Descr>HECT DOMAIN</Descr>
+            </DOMAIN>
+            <DOMAIN from="827" to="847">
+                <Descr>PRO-RICH</Descr>
+            </DOMAIN>
+            <BINDING from="858" to="858">
+                <Descr>UBIQUITIN (BY SIMILARITY)</Descr>
+            </BINDING>
+        </Features>
+    </Entry>
+</root>

@@ -1,0 +1,184 @@
+<root>
+	<Entry id="100K_RAT" class="STANDARD" mtype="PRT" seqlen="889">
+		<AC>Q62671</AC>
+		<Mod date="01-NOV-1997" Rel="35" type="Created"></Mod>
+		<Mod date="01-NOV-1997" Rel="35" type="Last sequence update"></Mod>
+		<Mod date="15-JUL-1999" Rel="38" type="Last annotation update"></Mod>
+		<Descr>100 KDA PROTEIN (EC 6.3.2.-)</Descr>
+		<Species>Rattus norvegicus (Rat)</Species>
+		<Org>Eukaryota</Org>
+		<Org>Metazoa</Org>
+		<Org>Chordata</Org>
+		<Org>Craniata</Org>
+		<Org>Vertebrata</Org>
+		<Org>Euteleostomi</Org>
+		<Org>Mammalia</Org>
+		<Org>Eutheria</Org>
+		<Org>Rodentia</Org>
+		<Org>Sciurognathi</Org>
+		<Org>Muridae</Org>
+		<Org>Murinae</Org>
+		<Org>Rattus</Org>
+		<Ref num="1" pos="SEQUENCE FROM N.A">
+			<Comment>STRAIN=WISTAR</Comment>
+			<Comment>TISSUE=TESTIS</Comment>
+			<DB>MEDLINE</DB>
+			<MedlineID>92253337</MedlineID>
+			<Author>Mueller D</Author>
+			<Author>Rehbein M</Author>
+			<Author>Baumeister H</Author>
+			<Author>Richter D</Author>
+			<Cite>Nucleic Acids Res. 20:1471-1475(1992)</Cite>
+		</Ref>
+		<Ref num="2" pos="ERRATUM">
+			<Author>Mueller D</Author>
+			<Author>Rehbein M</Author>
+			<Author>Baumeister H</Author>
+			<Author>Richter D</Author>
+			<Cite>Nucleic Acids Res. 20:2624-2624(1992)</Cite>
+		</Ref>
+		<EMBL1 prim_id="X64411" sec_id="CAA45756"></EMBL1>
+		<EMBL prim_id="X64411" sec_id="CAA45756"></EMBL>
+		<INTERPRO prim_id="IPR000569" sec_id="-"></INTERPRO>
+		<INTERPRO prim_id="IPR002004" sec_id="-"></INTERPRO>
+		<PFAM prim_id="PF00632" sec_id="HECT" status="1"></PFAM>
+		<PFAM prim_id="PF00658" sec_id="PABP" status="1"></PFAM>
+		<Keyword>Ubiquitin conjugation</Keyword>
+		<Keyword>Ligase</Keyword>
+		<Features>
+			<DOMAIN from="77" to="88">
+				<Descr prim_id="PF00657">ASP/GLU-RICH (ACIDIC)</Descr>
+			</DOMAIN>
+			<DOMAIN from="127" to="150">
+				<Descr>PRO-RICH</Descr>
+			</DOMAIN>
+			<DOMAIN from="420" to="439">
+				<Descr>ARG/GLU-RICH (MIXED CHARGE)</Descr>
+			</DOMAIN>
+			<DOMAIN from="448" to="457">
+				<Descr>ARG/ASP-RICH (MIXED CHARGE)</Descr>
+			</DOMAIN>
+			<DOMAIN from="485" to="514">
+				<Descr>PABP-LIKE</Descr>
+			</DOMAIN>
+			<DOMAIN from="579" to="590">
+				<Descr>ASP/GLU-RICH (ACIDIC)</Descr>
+			</DOMAIN>
+			<DOMAIN from="786" to="889">
+				<Descr>HECT DOMAIN</Descr>
+			</DOMAIN>
+			<DOMAIN from="827" to="847">
+				<Descr>PRO-RICH</Descr>
+			</DOMAIN>
+			<BINDING from="858" to="858">
+				<Descr>UBIQUITIN (BY SIMILARITY)</Descr>
+			</BINDING>
+		</Features>
+	</Entry>
+	<Entry id="ACPS_BACSU" class="STANDARD" mtype="PRT" seqlen="121">
+		<AC>P96618</AC>
+		<Mod date="30-MAY-2000" Rel="39" type="Created"></Mod>
+		<Mod date="30-MAY-2000" Rel="39" type="Last sequence update"></Mod>
+		<Mod date="30-MAY-2000" Rel="39" type="Last annotation update"></Mod>
+		<Descr>HOLO-[ACYL-CARRIER PROTEIN] SYNTHASE (EC 2.7.8.7) (HOLO-ACP SYNTHASE)</Descr>
+		<Gene>ACPS</Gene>
+		<Species>Bacillus subtilis</Species>
+		<Org>Bacteria</Org>
+		<Org>Firmicutes</Org>
+		<Org>Bacillus/Clostridium group</Org>
+		<Org>Bacillus/Staphylococcus group</Org>
+		<Org>Bacillus</Org>
+		<Ref num="1" pos="SEQUENCE FROM N.A">
+			<Comment>STRAIN=168</Comment>
+			<Author>Kasahara Y</Author>
+			<Author>Nakai S</Author>
+			<Author>Lee S</Author>
+			<Author>Sadaie Y</Author>
+			<Author>Ogasawara N</Author>
+			<Cite>Submitted (MAR-1997) to the EMBL/GenBank/DDBJ databases</Cite>
+		</Ref>
+		<EMBL prim_id="AB001488" sec_id="BAA19299"></EMBL>
+		<EMBL prim_id="Z99106" sec_id="CAB12269"></EMBL>
+		<SUBTILIST prim_id="BG12089" sec_id="ACPS"></SUBTILIST>
+		<INTERPRO prim_id="IPR002582" sec_id="-"></INTERPRO>
+		<PFAM prim_id="PF01648" sec_id="ACPS" status="1"></PFAM>
+		<Keyword>Lipid synthesis</Keyword>
+		<Keyword>Transferase</Keyword>
+	</Entry>
+	<Entry id="ADH1_STRCA" class="STANDARD" mtype="PRT" seqlen="374">
+		<AC>P80338</AC>
+		<Mod date="01-FEB-1995" Rel="31" type="Created"></Mod>
+		<Mod date="01-FEB-1995" Rel="31" type="Last sequence update"></Mod>
+		<Mod date="01-OCT-1996" Rel="34" type="Last annotation update"></Mod>
+		<Descr>ALCOHOL DEHYDROGENASE I (EC 1.1.1.1)</Descr>
+		<Species>Struthio camelus (Ostrich)</Species>
+		<Org>Eukaryota</Org>
+		<Org>Metazoa</Org>
+		<Org>Chordata</Org>
+		<Org>Craniata</Org>
+		<Org>Vertebrata</Org>
+		<Org>Euteleostomi</Org>
+		<Org>Archosauria</Org>
+		<Org>Aves</Org>
+		<Org>Palaeognathae</Org>
+		<Org>Struthioniformes</Org>
+		<Org>Struthionidae</Org>
+		<Org>Struthio</Org>
+		<Ref num="1" pos="SEQUENCE">
+			<Comment>TISSUE=LIVER</Comment>
+			<DB>MEDLINE</DB>
+			<MedlineID>95010012</MedlineID>
+			<Author>Estonius M</Author>
+			<Author>Hjelmqvist L</Author>
+			<Author>Joernvall H</Author>
+			<Cite>Eur. J. Biochem. 224:373-378(1994)</Cite>
+		</Ref>
+		<Ref num="2" pos="SEQUENCE OF 1-13">
+			<DB>MEDLINE</DB>
+			<MedlineID>96305803</MedlineID>
+			<Author>Bergman T</Author>
+			<Author>Gheorghe M.T</Author>
+			<Author>Hjelmqvist L</Author>
+			<Author>Joernvall H</Author>
+			<Cite>FEBS Lett. 390:199-202(1996)</Cite>
+		</Ref>
+		<HSSP prim_id="P00327" sec_id="6ADH"></HSSP>
+		<INTERPRO prim_id="IPR002085" sec_id="-"></INTERPRO>
+		<INTERPRO prim_id="IPR002328" sec_id="-"></INTERPRO>
+		<PFAM prim_id="PF00107" sec_id="adh_zinc" status="1"></PFAM>
+		<PROSITE prim_id="PS00059" sec_id="ADH_ZINC" status="1"></PROSITE>
+		<Keyword>Oxidoreductase</Keyword>
+		<Keyword>Zinc</Keyword>
+		<Keyword>NAD</Keyword>
+		<Keyword>Acetylation</Keyword>
+		<Features>
+			<MOD_RES from="1" to="1">
+				<Descr>ACETYLATION</Descr>
+			</MOD_RES>
+			<METAL from="46" to="46">
+				<Descr>ZINC (CATALYTIC) (BY SIMILARITY)</Descr>
+			</METAL>
+			<METAL from="67" to="67">
+				<Descr>ZINC (CATALYTIC) (BY SIMILARITY)</Descr>
+			</METAL>
+			<METAL from="97" to="97">
+				<Descr>ZINC (SECOND ATOM) (BY SIMILARITY)</Descr>
+			</METAL>
+			<METAL from="100" to="100">
+				<Descr>ZINC (SECOND ATOM) (BY SIMILARITY)</Descr>
+			</METAL>
+			<METAL from="103" to="103">
+				<Descr>ZINC (SECOND ATOM) (BY SIMILARITY)</Descr>
+			</METAL>
+			<METAL from="111" to="111">
+				<Descr>ZINC (SECOND ATOM) (BY SIMILARITY)</Descr>
+			</METAL>
+			<METAL from="174" to="174">
+				<Descr>ZINC (CATALYTIC) (BY SIMILARITY)</Descr>
+			</METAL>
+			<VARIANT from="112" to="112">
+				<Descr>R -> C</Descr>
+			</VARIANT>
+		</Features>
+	</Entry>
+</root>

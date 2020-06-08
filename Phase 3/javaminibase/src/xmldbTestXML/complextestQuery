@@ -1,0 +1,3 @@
+ptree_1: pattern_tree3
+operation: GRP 5
+buf_size:5,10,50,100,1000

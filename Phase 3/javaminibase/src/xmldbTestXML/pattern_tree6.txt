@@ -1,0 +1,16 @@
+8
+root
+AC
+P4306
+Mod
+*
+Features
+*
+ZINC
+1 2 AD
+2 3 PC
+1 4 AD
+4 5 PC
+1 6 AD
+6 7 PC
+7 8 AD
